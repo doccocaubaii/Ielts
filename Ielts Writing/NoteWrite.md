@@ -31,8 +31,34 @@ Nhiệm vụ của intro là giới thiệu cái chart đấy về cái gì, th�
 # 4 các viết overview
  nếu có thay đổi theo thời gian thì cần nhận biết trend chung của đề bài, sau đó nói về diffentces.Differences là to, bé. trend là có tăng chung, giảm chung hay remain stable
 
+over view: there was an increase in  ..., (with.. witnessing the most dramatic rise), while  (if there is another trend). In addition, ... highest figures ...
+Thường ở câu in addition, ... có cái số liệu to nhất là oke rồi, nếu k có to nhất thì đề cập thằng nhỏ nhất.
+
+# 5 cách viết khổ thân bài:
+2 thằng này sẽ viết ở đầu của mỗi một khổ thân bài. vì ở đầu mỗi một khổ thân bài mình phải paraphase thì nó mới gắn kết.
+
+khổ 1:
+  *** the number/proportion/ amount of... started  at ..., after which it  expierence a rise / growth/decline to ... in ..., before ending the period at ...
+
+ rise / growth/decline to ... in ... ở những thằng thay đổi mạnh thôi. sau đó là đến cuối luôn. before ... . 
+ sau đó dùng "the figures". khi mà dùng the figures ấy, thì nó sẽ refer ngược lại đến cái từ "the number/proportion/ amount of..." làm tăng tính gắn kết.
 
 
+khổ 2:  
+*** Data ..., with a subsequent increase /decrease/ levelling off/ fluctuation... and a final...
+
+
+*** the number/ proportion/ amount of.. was at  ... (or change...), followed by an slow/ significant increase/ decrease to ... (cái này là để dự phòng khi có lúc bí quá. 2 câu trên là chưa đủ nói hết số liệu )
+and final drop to...
+
+ 
+# 6 grammar + cohenrence and cohesion
+
+ 
+ - The figues for ... + V, and(but) + V
+ - similar/opposite changes can be seen in the figure(s) for .., which ...(nếu mà có thay đổi giống nhau hoặc cùng nhau thì có thể dùng cấu trúc này)
+ - the figues for  ... saw similar / opposite changes, V-ing
+ - the figues for .. + change, ending/reaching ....
  
  
  
@@ -55,14 +81,16 @@ Nhiệm vụ của intro là giới thiệu cái chart đấy về cái gì, th�
  
  
  
- 
- 
- 
- 
- 
- 
- 
- từ đấy trờ đi: 2002 onwards
+ Words:
+ - increase/grow/rise 
+ - decrease/ drop/decline
+ - fluctuation/ fluctuate in the range from .. to   / hover around
+ - significant/ considerable/ dramatic/ sharp(ly)  (2 thằng đằng trước này tầm 30-60 độ, 2 thằng đăng sau tăng mạnh hơn)
+ - slight/ slow/ gradual/ marginal(ly): rất nhỏ, không đáng kể, suýt soát, dưới 10%/  moderately: vừa phải, trung bình, khoảng 20-40%
+ - reach a peak of ... = peak at= reach/hit a high of 
+ - reach a low  of = hit a trough of ... :chạm đáy ở mức ...
+ - remain unchanged/stable= level off (động từ , leveled là quá khứ). (a levelling off là N: một sự chững lại,một sự ổn định,một trạng thái đi ngang)
+ - từ đấy trờ đi: 2002 onwards
   
 
 
