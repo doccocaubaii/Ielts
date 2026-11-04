@@ -60,14 +60,30 @@ and final drop to...
  - the figues for  ... saw similar / opposite changes, V-ing
  - the figues for .. + change, ending/reaching ....
  
+ paraphrasing:
+ - N đếm được => the number of As/ A numbers/ how many S + V/ the figure/data../synonym/that - who
+                the number of tourists=tourist numbers= the number of travelers = the number of people traveling to.../ how many people  traveled to ...
+		500 people traveled to Vietnam...
+
+ - N k đếm đc => the amount of / how much S + V/ the figure/data.... synonym
+                 the amount of money spent on books in Vietnam in 1999 was 1 million dollars
+		 the chart illustrate how much people in five countries spent on books from 1999 to 2019
+		 = 1 million dollars was spent on book by Vietnamese people in 1999
+ 		 = 1 million dollars was expended on books by people in Vietnam in 1999
+ - Phần trăm => Percentage = proportion = share/ how or how many- how much/ data...the figure/synonym
+		The proportion of female members in parliament
+		the percentage of members who are female in parliament
+		the share of parliamentary members who are women
+		the percentage of women holding a position in parliament
+		the chart illustates how many women were elected to work in parliament in five countries from 2000 to 2015
+	 
  
  
  
- 
- 
- 
- 
- 
+ - công thức : intro : the line graph illustrates how much ...(paraphrase lần 1)
+ 	       overview: overall, despite some fluctuations, there was an increase in the amount of ...(paraphrase lần 2)
+		khổ 1: (paraphase lần 3)... similarly, the figure for ...	
+ 		khổ 2: (paraphase lần 4)... similarly, the figure for ...
  
  
  
