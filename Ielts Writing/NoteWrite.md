@@ -83,11 +83,10 @@ and final drop to...
  - công thức : intro : the line graph illustrates how much ...(paraphrase lần 1)
  	       overview: overall, despite some fluctuations, there was an increase in the amount of ...(paraphrase lần 2)
 		khổ 1: (paraphase lần 3)... similarly, the figure for ...	
- 		khổ 2: (paraphase lần 4)... similarly, the figure for ...
+ 		khổ 2: (paraphase lần 4)... conversely, the figure for ...
  
  
- 
- 
+
  
  
  
@@ -107,6 +106,10 @@ and final drop to...
  - reach a low  of = hit a trough of ... :chạm đáy ở mức ...
  - remain unchanged/stable= level off (động từ , leveled là quá khứ). (a levelling off là N: một sự chững lại,một sự ổn định,một trạng thái đi ngang)
  - từ đấy trờ đi: 2002 onwards
+ - approximately = around = about = roughly
+ - just over = north of = upward of
+ - just under = shy of = downward of 
+ - exactly = precisely  
   
 
 
